@@ -18,7 +18,7 @@ sudo apt-get install -y \
     git 
 
 
-git clone https://github.com/tmagik/tdx -b ppcie-fixes-2
+git clone https://github.com/corvexai/tdx -b ppcie-fixes-2
 cd tdx
 sudo ./setup-tdx-host.sh
 sudo attestation/setup-attestation-host.sh
