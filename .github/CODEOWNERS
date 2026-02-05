@@ -1,0 +1,5 @@
+# CODEOWNERS file
+# Code owners are automatically requested for review on PRs.
+
+*               @corvexai/r-and-d
+/.github/       @corvexai/r-and-d-admin
